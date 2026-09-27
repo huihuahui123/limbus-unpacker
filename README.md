@@ -219,6 +219,6 @@ exe 与 `lcb_unpack.py` 参数完全一致：
 
 ---
 
-由 **得捕牢勒** 制作 / Maintained by **DEBOILER**（得捕牢勒）。
+由 **得捕牢勒** 制作维护
 
 解包所得素材版权归 Project Moon 所有，请个人学习研究使用。
